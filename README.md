@@ -20,7 +20,7 @@ This is my personal portfolio, showcasing my skills and projects in front-end de
 
 ### To run this project locally, follow these steps:
 #### Clone the Repository:
-git clone https://github.com/rostovks94/Personal-Portfolio-Enhancement-Project.git
+git clone https://github.com/rostovks94/PORTFOLIO
 ##### Navigate to the Project Directory:
 cd Personal-Portfolio-Enhancement-Project 
 
@@ -35,7 +35,7 @@ python -m http.server 8000
 Then, navigate to http://localhost:8000 in your web browser.
 #### Through GitHub Pages:
 You can use the project online without cloning it. Simply go to the following link:
-https://rostovks94.github.io/Personal-Portfolio-Enhancement-Project/
+https://github.com/rostovks94/PORTFOLIO
 This README provides complete guidance for users to use your application in two ways.
 Project Structure
 
