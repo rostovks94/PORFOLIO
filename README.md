@@ -5,18 +5,18 @@
 This is my personal portfolio, showcasing my skills and projects in front-end development. The portfolio includes structured pages with information about me, my technical and professional skills, as well as detailed descriptions of completed projects. The portfolio is designed with best practices in mind, providing easy navigation and an attractive design. This project was completed as part of a bootcamp training program, demonstrating the practical application of skills learned in web development, including front-end and back-end technologies.
 
 ## Features
-### Structured Pages: Includes pages with detailed information about me, my skills, and my projects.
-### Responsive Design: Ensures the portfolio looks great on all devices, from desktops to mobile phones.
-### Interactive Elements: Hover effects and animations to enhance user experience.
-### GitHub Integration: Links to GitHub repositories for easy access to project code.
-### Easy Navigation: User-friendly navigation to help visitors easily explore the content.
-### Aesthetic Design: Clean and modern design to create a professional impression.
+**Structured Pages:** Includes pages with detailed information about me, my skills, and my projects.
+**Responsive Design:** Ensures the portfolio looks great on all devices, from desktops to mobile phones.
+**Interactive Elements:** Hover effects and animations to enhance user experience.
+**GitHub Integration:** Links to GitHub repositories for easy access to project code.
+**Easy Navigation:** User-friendly navigation to help visitors easily explore the content.
+**Aesthetic Design:** Clean and modern design to create a professional impression.
 
 ## Technologies Used
-### HTML: For structuring the web pages.
-### CSS: For styling the web pages.
-### JavaScript: For implementing the functionality and interactivity.
-### Running the Project Locally
+**HTML:** For structuring the web pages.
+**CSS:** For styling the web pages.
+**JavaScript:** For implementing the functionality and interactivity.
+**Running the Project Locally**
 
 ### To run this project locally, follow these steps:
 #### Clone the Repository:
@@ -41,32 +41,35 @@ Project Structure
 
 ### The project consists of the following main components:
 /PORTFOLIO
-├── /css
-│   ├── about.css
-│   ├── contact.css
-│   ├── introduction.css
-│   ├── projects.css
-│   └── skills.css
-├── /images
-│   ├── background1.jpg
-│   ├── github.png
-│   ├── gmail.png
-│   ├── linkedin.png
-│   ├── personal1.JPG
-│   └── phone.png
-├── /screenshots
-│   ├── screenshot1.1.jpg
-│   ├── screenshot1.2.jpg
-│   ├── screenshot1.3.jpg
-│   ├── screenshot2.1.jpg
-│   ├── screenshot2.2.jpg
-│   └── screenshot2.3.jpg
+│
+├── index.html
 ├── introduction.html
 ├── contact.html
 ├── projects.html
 ├── skills.html
+│
+├── README.md
+│
+├── /css
+│ ├── about.css
+│ ├── contact.css
+│ ├── introduction.css
+│ ├── projects.css
+│ └── skills.css
+│
+├── /images
+│ ├── background1.jpg
+│ ├── coverimg.png
+│ ├── github.png
+│ ├── gmail.png
+│ ├── linkedin.png
+│ ├── personal1.jpg
+│ ├── personal2.jpg
+│ ├── phone.png
+│ └── TRESSE.mp4
+│
+├── /screenshots
+│ ├── screenshot1.1.jpg – screenshot8.3.jpg
 
-Conclusion
 
-This project demonstrates the use of HTML, CSS, and JavaScript to create a functional personal portfolio. The project can be easily extended to include more advanced features such as user authentication, database integration, and additional interactivity.
 Feel free to reach out if you have any questions or suggestions
