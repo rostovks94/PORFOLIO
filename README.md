@@ -41,7 +41,8 @@ This README provides complete guidance for users to use your application in two 
 Project Structure
 
 ### The project consists of the following main components:
-```/PORTFOLIO
+```
+/PORTFOLIO
 │
 ├── index.html
 ├── introduction.html
@@ -70,7 +71,8 @@ Project Structure
 │ └── TRESSE.mp4
 │
 ├── /screenshots
-│ ├── screenshot1.1.jpg – screenshot8.3.jpg```
+│ ├── screenshot1.1.jpg – screenshot8.3.jpg
+```
 
 
 Feel free to reach out if you have any questions or suggestions
