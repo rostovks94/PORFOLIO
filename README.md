@@ -35,7 +35,7 @@ python -m http.server 8000
 Then, navigate to http://localhost:8000 in your web browser.
 #### Through GitHub Pages:
 You can use the project online without cloning it. Simply go to the following link:
-https://rostovks94.github.io/PORTFOLIO/
+ https://rostovks94.github.io/PORTFOLIO/
 
 This README provides complete guidance for users to use your application in two ways.
 Project Structure
